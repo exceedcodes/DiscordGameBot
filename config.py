@@ -1,0 +1,6 @@
+PREFIX = '!'
+
+TOKEN = 'Token Here'
+
+
+
